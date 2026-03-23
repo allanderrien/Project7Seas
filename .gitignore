@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+backtest_results.png
+.claude/
+00. Donnees archives 2025/
+01. Scripts archive 2025/
+02. Framework/
