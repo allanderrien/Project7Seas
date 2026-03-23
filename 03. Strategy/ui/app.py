@@ -165,21 +165,8 @@ SECTOR_PERIODS = [
 RANKING_PERIODS = SECTOR_PERIODS  # même découpage
 
 
-def _csv_last_date() -> str:
-    """Retourne la dernière date du CSV sous forme de string YYYY-MM-DD."""
-    tail = pd.read_csv(_PRICES_CSV, index_col=0, parse_dates=True).index.max()
-    return str(tail.date())
-
-
 def _cache_valid() -> bool:
-    if not os.path.exists(_CACHE_PKL) or not os.path.exists(_PRICES_CSV):
-        return False
-    try:
-        with open(_CACHE_PKL, "rb") as f:
-            cached = pickle.load(f)
-        return cached.get("_last_date") == _csv_last_date()
-    except Exception:
-        return False
+    return os.path.exists(_CACHE_PKL)
 
 
 def _build_spy_figs(spy: pd.Series, sma200: pd.Series, full_regime: pd.Series) -> dict:
@@ -310,7 +297,7 @@ def _build_sector_cache() -> dict:
     result     = {}
     full_start = prices.index[0]
     last_dt    = prices.index.max()
-    result["_last_date"] = str(last_dt.date())
+
 
     # 1. SPY — séries + figures
     if "SPY" in prices.columns:
