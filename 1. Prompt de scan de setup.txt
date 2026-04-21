@@ -1,0 +1,28 @@
+Prompt de scan initial (détection de setups)
+
+
+
+
+Je veux que tu identifies des tickers présentant des setups exploitables à court ou moyen terme, en te basant sur des informations récentes (moins de 1 à 2 semaines).
+
+Tu dois proposer entre 5 et 10 tickers maximum, avec une logique claire. Tu ne dois pas proposer de mega caps évidentes sans justification précise. Tu dois privilégier des situations où il existe un décalage exploitable entre perception du marché et réalité.
+
+Pour chaque ticker, tu dois identifier le type de setup parmi les catégories suivantes.
+
+Le premier type est le pullback dans une tendance haussière propre. Le narratif est intact, la tendance de fond est claire, et la baisse récente est interprétable comme une phase de digestion. Tu dois expliquer pourquoi la correction semble saine et pourquoi le narratif reste valide.
+
+Le deuxième type est la phase intermédiaire après correction spéculative. Le titre a connu une phase d’emballement, puis une forte correction. Le narratif n’est pas cassé, mais il n’est pas encore revalidé. Tu dois expliquer pourquoi le narratif reste crédible et quels pourraient être les catalyseurs de redéclenchement.
+
+Le troisième type est le turnaround ou re-rating en cours. Le marché a abandonné ou fortement dégradé un dossier, mais des éléments récents suggèrent une amélioration réelle. Tu dois expliquer ce qui change concrètement dans les fondamentaux ou la perception.
+
+Le quatrième type est le setup défensif à flux lent. Le narratif est très stable, le business est robuste, et les corrections sont généralement liées à des facteurs externes. Tu dois expliquer pourquoi ces corrections peuvent être exploitables malgré une dynamique lente.
+
+Pour chaque ticker, tu dois écrire un court paragraphe en phrases complètes, avec les éléments suivants. Tu expliques le setup identifié, tu décris brièvement le narratif actuel, tu précises ce que le marché semble penser, et tu indiques pourquoi il pourrait y avoir un décalage exploitable.
+
+Tu dois t’appuyer sur des éléments récents et concrets, comme des résultats, des annonces, des changements de perception ou des événements sectoriels. Tu dois éviter les généralités.
+
+Tu dois exclure les tickers où le narratif est clairement cassé ou où il n’y a pas de logique exploitable.
+
+Enfin, tu termines par une synthèse courte où tu classes les meilleurs candidats selon la propreté du setup.
+
+Important. Tu ne donnes pas de conseil d’investissement. Tu ne fais pas de liste sans justification. Tu privilégies la qualité à la quantité. Tu assumes que l’objectif est de détecter des opportunités en amont, pas de confirmer des tendances évidentes.

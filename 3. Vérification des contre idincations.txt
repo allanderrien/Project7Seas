@@ -1,0 +1,50 @@
+Prompt de vérification (version opérationnelle)
+
+Je veux une analyse factuelle et récente d’un ticker, orientée prise de position.
+
+Ticker : [à remplir]
+Date de référence : [aujourd’hui]
+
+Ta mission est d’identifier uniquement les contre-indications concrètes à une entrée en position. Pas de généralités, pas d’opinion, uniquement des faits vérifiables récents (moins de 3–6 mois).
+
+Structure ta réponse en phrases complètes, sans bullet points.
+
+Recherche les signaux négatifs fondamentaux récents :
+baisse de revenus, ralentissement de croissance, marges en dégradation
+guidance décevante ou révisions à la baisse
+dépendance excessive à un client ou projet
+Recherche les problèmes d’exécution ou opérationnels :
+retards de projets, annulations, surcoûts
+difficultés industrielles ou techniques
+partenariats fragiles ou remis en question
+Recherche les risques financiers :
+besoin de financement, dilution potentielle
+cash burn élevé, dette problématique
+absence de revenus récurrents
+Recherche les signaux de crédibilité ou gouvernance :
+poursuites, enquêtes, class actions
+accusations de communication trompeuse (sans les présenter comme avérées si non prouvé)
+départs clés ou instabilité du management
+Recherche les contre-indications sectorielles concrètes :
+baisse de la demande réelle (pas du sentiment)
+pression sur les prix ou compétitivité
+évolution réglementaire défavorable
+
+Pour chaque point, donne :
+
+le fait précis
+pourquoi c’est un risque
+une source vérifiable (lien)
+
+Ensuite, conclus en 3 phrases maximum :
+
+Est-ce un problème structurel ou temporaire
+Est-ce que cela invalide le narratif ou seulement le retarde
+Niveau de risque global (faible / modéré / élevé)
+
+Important :
+
+Ne donne aucun avis d’investissement
+N’invente rien
+Si tu ne trouves pas d’information, dis-le explicitement
+Priorise Reuters, publications officielles, résultats financiers

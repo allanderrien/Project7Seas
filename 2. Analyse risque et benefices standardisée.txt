@@ -1,0 +1,101 @@
+Analyse risque / bénéfice standardisée
+
+Je veux que tu analyses un ou plusieurs tickers en utilisant une méthode standardisée basée sur le consensus analyste à 12 mois.
+
+Ticker(s) : Eli Lilly, Costco, Colgate, NuScale, SMCI, Uber, ENPH
+Date : 24/03/2026
+
+Source des données (obligatoire)
+
+Tu dois récupérer les estimations analystes à 12 mois en utilisant exclusivement les sources suivantes, par ordre de priorité :
+
+Reuters
+MarketWatch (Analyst Estimates)
+Yahoo Finance (Analysis → Price Target Summary)
+FinancialModelingPrep
+
+Tu dois fournir :
+
+prix actuel
+target high
+target low
+target moyen (consensus ou médian)
+source utilisée (avec lien)
+
+Si aucune source fiable n’est disponible, tu construis une fourchette cohérente à partir d’articles récents et tu précises que c’est une estimation.
+
+Tu n’inventes jamais de données.
+
+Étape 1 — Calcul des métriques
+
+Tu calcules pour chaque ticker :
+
+Upside = (target high – prix actuel) / prix actuel
+Downside = (prix actuel – target low) / prix actuel. Downside plancher minimum : 6% pour éviter les emabllements du score à faible downside.
+
+Dispersion = (target high – target low) / prix actuel
+
+Étape 2 — Interprétation de la dispersion
+
+Tu dois commenter la dispersion en une phrase :
+
+dispersion faible → forte convergence des analystes
+dispersion élevée → incertitude importante
+Étape 3 — Estimation des probabilités
+
+Tu estimes trois probabilités :
+
+probabilité haussière
+probabilité neutre
+probabilité baissière
+
+Contraintes :
+
+la somme doit faire 100%
+tu dois justifier brièvement avec :
+qualité du setup
+solidité du narratif
+niveau de dispersion
+
+Règle importante :
+
+plus la dispersion est élevée → plus tu réduis la probabilité haussière
+plus la dispersion est faible → plus tu peux augmenter la probabilité haussière
+Étape 4 — Calcul du score
+
+Tu calcules :
+
+Espérance = (proba_haut × upside) – (proba_bas × downside)
+
+Ratio brut = upside / downside
+
+Score final = Espérance × Ratio brut / (1 + Dispersion)
+
+Étape 5 — Restitution
+
+Pour chaque ticker, tu rédiges un paragraphe en phrases complètes avec :
+
+les données (prix, targets, source)
+les métriques calculées (upside, downside, dispersion)
+les probabilités + justification
+l’espérance
+le ratio
+le score final
+une conclusion claire sur l’asymétrie
+
+Tu termines par un classement des tickers du plus intéressant au moins intéressant selon le score.
+
+Contraintes
+
+Tu ne donnes pas de conseil d’investissement.
+Tu ne fais pas de généralités.
+Tu privilégies les données récentes.
+Tu restes conservateur dans les probabilités.
+
+Logique du modèle (rappel implicite)
+
+Ce modèle vise à identifier les situations où :
+
+le potentiel est élevé
+le risque est maîtrisé
+l’incertitude est correctement pénalisée

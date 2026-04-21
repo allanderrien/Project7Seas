@@ -1,0 +1,370 @@
+{
+  "LLY": {
+    "price": 906.0,
+    "low": 850.0,
+    "mean": 1209.34,
+    "high": 1500.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "COST": {
+    "price": 969.2,
+    "low": 650.0,
+    "mean": 1067.09,
+    "high": 1315.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "CL": {
+    "price": 84.38,
+    "low": 87.0,
+    "mean": 97.21,
+    "high": 105.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "SMR": {
+    "price": 11.28,
+    "low": 8.0,
+    "mean": 20.73,
+    "high": 52.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "SMCI": {
+    "price": 21.72,
+    "low": 15.0,
+    "mean": 40.73,
+    "high": 63.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "UBER": {
+    "price": 74.03,
+    "low": 70.0,
+    "mean": 103.68,
+    "high": 150.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "ENPH": {
+    "price": 40.56,
+    "low": 27.0,
+    "mean": 46.27,
+    "high": 85.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "URI": {
+    "price": 728.44,
+    "low": 600.0,
+    "mean": 985.89,
+    "high": 1550.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "LDO.MI": {
+    "price": 57.3,
+    "low": 57.0,
+    "mean": 67.42,
+    "high": 77.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "AAPL": {
+    "price": 251.76,
+    "low": 205.0,
+    "mean": 295.44,
+    "high": 350.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "OKLO": {
+    "price": 54.64,
+    "low": 14.0,
+    "mean": 97.27,
+    "high": 168.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "LUNR": {
+    "price": 20.05,
+    "low": 9.5,
+    "mean": 22.5,
+    "high": 26.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "HDMG.DE": {
+    "price": null,
+    "low": null,
+    "mean": null,
+    "high": null,
+    "source": "Manuel",
+    "fetched_at": "2026-03-24"
+  },
+  "DE": {
+    "price": 562.23,
+    "low": 500.0,
+    "mean": 663.51,
+    "high": 793.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "ETH-USD": {
+    "price": 2142.46,
+    "low": null,
+    "mean": null,
+    "high": null,
+    "source": "Manuel",
+    "fetched_at": "2026-03-24"
+  },
+  "CATX": {
+    "price": 4.17,
+    "low": 7.0,
+    "mean": 12.93,
+    "high": 18.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "NVDA": {
+    "price": 174.35,
+    "low": 140.0,
+    "mean": 269.58,
+    "high": 380.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "RKLB": {
+    "price": 66.19,
+    "low": 68.0,
+    "mean": 89.88,
+    "high": 120.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "AMPX": {
+    "price": 18.3,
+    "low": 18.0,
+    "mean": 20.0,
+    "high": 22.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "BA.L": {
+    "price": 2106.0,
+    "low": 1700.0,
+    "mean": 2288.33,
+    "high": 2600.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "GLD": {
+    "price": 400.2,
+    "low": null,
+    "mean": null,
+    "high": null,
+    "source": "Manuel",
+    "fetched_at": "2026-03-24"
+  },
+  "SOUN": {
+    "price": 6.66,
+    "low": 9.0,
+    "mean": 14.62,
+    "high": 20.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "HO.PA": {
+    "price": 237.9,
+    "low": 250.0,
+    "mean": 293.22,
+    "high": 380.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "ORCL": {
+    "price": 149.41,
+    "low": 155.0,
+    "mean": 249.02,
+    "high": 400.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "SOL-USD": {
+    "price": 90.14,
+    "low": null,
+    "mean": null,
+    "high": null,
+    "source": "Manuel",
+    "fetched_at": "2026-03-24"
+  },
+  "GOOGL": {
+    "price": 297.11,
+    "low": 185.0,
+    "mean": 376.75,
+    "high": 443.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "NNE": {
+    "price": 21.27,
+    "low": 45.0,
+    "mean": 46.67,
+    "high": 50.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "HAG.DE": {
+    "price": 71.2,
+    "low": 57.0,
+    "mean": 91.14,
+    "high": 114.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "QBTS": {
+    "price": 15.76,
+    "low": 19.58,
+    "mean": 37.4,
+    "high": 45.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "SPY": {
+    "price": 650.17,
+    "low": null,
+    "mean": null,
+    "high": null,
+    "source": "Manuel",
+    "fetched_at": "2026-03-24"
+  },
+  "IONQ": {
+    "price": 32.3,
+    "low": 35.0,
+    "mean": 65.29,
+    "high": 100.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "RGTI": {
+    "price": 15.4,
+    "low": 15.91,
+    "mean": 31.54,
+    "high": 43.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "TSM": {
+    "price": 338.06,
+    "low": 351.0,
+    "mean": 430.65,
+    "high": 520.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "JMIA": {
+    "price": 6.88,
+    "low": 7.31,
+    "mean": 14.61,
+    "high": 17.97,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "TCEHY": {
+    "price": 64.92,
+    "low": 83.74,
+    "mean": 95.81,
+    "high": 102.01,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "VKTX": {
+    "price": 32.42,
+    "low": 35.0,
+    "mean": 92.72,
+    "high": 125.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "SLV": {
+    "price": 61.47,
+    "low": null,
+    "mean": null,
+    "high": null,
+    "source": "Manuel",
+    "fetched_at": "2026-03-24"
+  },
+  "BEAM": {
+    "price": 24.1,
+    "low": 26.0,
+    "mean": 49.93,
+    "high": 80.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "CAT": {
+    "price": 696.1,
+    "low": 425.0,
+    "mean": 736.21,
+    "high": 877.52,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "ASTS": {
+    "price": 85.47,
+    "low": 41.2,
+    "mean": 88.53,
+    "high": 139.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "NURO": {
+    "price": 4.58,
+    "low": null,
+    "mean": null,
+    "high": null,
+    "source": "Manuel",
+    "fetched_at": "2026-03-24"
+  },
+  "CCJ": {
+    "price": 104.07,
+    "low": 82.0,
+    "mean": 124.9,
+    "high": 159.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "RHM.DE": {
+    "price": 1452.5,
+    "low": 1700.0,
+    "mean": 2102.0,
+    "high": 2500.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "BTC-USD": {
+    "price": 70367.95,
+    "low": null,
+    "mean": null,
+    "high": null,
+    "source": "Manuel",
+    "fetched_at": "2026-03-24"
+  },
+  "META": {
+    "price": 595.82,
+    "low": 676.0,
+    "mean": 863.63,
+    "high": 1144.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  },
+  "MSFT": {
+    "price": 376.3,
+    "low": 392.0,
+    "mean": 594.62,
+    "high": 730.0,
+    "source": "Yahoo Finance",
+    "fetched_at": "2026-03-24"
+  }
+}
